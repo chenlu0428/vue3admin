@@ -1,30 +1,4 @@
-<<<<<<< HEAD
-<div align="center">
-  <img src="./apps/docs/public/logo.png" width="96" alt="Vue-Bag-Admin Logo" />
-  <h1>Vue-Bag-Admin</h1>
-  <p><strong>插件化、可拆包、面向业务增长的 Vue3 中后台解决方案</strong></p>
-  <p>
-    <a href="https://hangjob.github.io/vue-bag-admin">在线体验</a>
-    ·
-    <a href="https://hangjob.github.io/vue-bag-admin/docs/">文档地址</a>
-    ·
-    <a href="./apps/docs/guide/getting-started.md">快速开始</a>
-    ·
-    <a href="./apps/docs/guide/plugins/create-plugin.md">插件开发</a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Vue-3.5-42b883?style=flat-square" alt="Vue 3.5" />
-    <img src="https://img.shields.io/badge/Vite-6-646cff?style=flat-square" alt="Vite 6" />
-    <img src="https://img.shields.io/badge/Naive_UI-2.40-18a058?style=flat-square" alt="Naive UI" />
-    <img src="https://img.shields.io/badge/TailwindCSS-3.4-38bdf8?style=flat-square" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/pnpm-workspace-f69220?style=flat-square" alt="pnpm workspace" />
-    <img src="https://img.shields.io/badge/license-MIT-111827?style=flat-square" alt="MIT License" />
-  </p>
-</div>
-
----
-
-`Vue-Bag-Admin` 不只是一个后台工程模板，也是一套正在拆包发布的插件化后台生态。它把布局、权限、路由、请求、Schema UI 和插件引导收敛到统一主包中，让业务项目可以先轻量启动，再按需接入独立插件。
+`Vue3Admin` 不只是一个后台工程模板，也是一套正在拆包发布的插件化后台生态。它把布局、权限、路由、请求、Schema UI 和插件引导收敛到统一主包中，让业务项目可以先轻量启动，再按需接入独立插件。
 
 你可以直接用脚手架创建一个新的后台宿主，也可以在当前 Monorepo 中开发框架、插件、文档站和参考后端。
 
@@ -131,16 +105,3 @@ Vue-Bag-Admin
 | `pnpm build`                  | 构建所有包和应用。           |
 | `pnpm check-types`            | 执行类型检查。               |
 
-## 延伸阅读
-
-- [快速开始](./apps/docs/guide/getting-started.md)
-- [插件开发指南](./apps/docs/guide/plugins/create-plugin.md)
-- [宿主层说明](./packages/host-vue/README.md)
-
-## 交流
-
-如果你想交流使用体验、插件设计，或者一起补齐项目的能力边界，可以访问[联系页面](https://www.vipbic.com/connect)。
-=======
-# vue3admin
-vue3后台管理系统
->>>>>>> 0829c441e721919a29210a27f9703d045c249fe8
