@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./apps/docs/public/logo.png" width="96" alt="Vue-Bag-Admin Logo" />
   <h1>Vue-Bag-Admin</h1>
@@ -139,3 +140,7 @@ Vue-Bag-Admin
 ## 交流
 
 如果你想交流使用体验、插件设计，或者一起补齐项目的能力边界，可以访问[联系页面](https://www.vipbic.com/connect)。
+=======
+# vue3admin
+vue3后台管理系统
+>>>>>>> 0829c441e721919a29210a27f9703d045c249fe8
