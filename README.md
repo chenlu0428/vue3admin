@@ -105,3 +105,4 @@ Vue-Bag-Admin
 | `pnpm build`                  | 构建所有包和应用。           |
 | `pnpm check-types`            | 执行类型检查。               |
 
+在线预览https://chenlu0428.github.io/vue3admin/
