@@ -1,0 +1,1 @@
+import{d as s,aM as o,o as n,c,k as u,j as d,l as _}from"./index-BmBhVyyc.js";const i={class:"min-h-screen bg-slate-50 dark:bg-[#020817]"},b=s({__name:"Redirect",setup(p){const t=u(),a=d(),r=o();return n(async()=>{const e=typeof t.query.target=="string"?t.query.target:"/dashboard";r.restoreCache(e),await a.replace(e)}),(e,l)=>(_(),c("div",i))}});export{b as default};

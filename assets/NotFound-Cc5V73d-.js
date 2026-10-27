@@ -1,0 +1,1 @@
+import{_ as o,l as s,c as a,b as t}from"./index-BmBhVyyc.js";const n={},c={class:"p-6 bg-white rounded shadow-sm"};function r(d,e){return s(),a("div",c,[...e[0]||(e[0]=[t("h2",{class:"text-2xl font-bold mb-2"},"404",-1),t("p",{class:"text-gray-600"},"Page Not Found",-1)])])}const _=o(n,[["render",r]]);export{_ as default};

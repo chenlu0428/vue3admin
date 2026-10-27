@@ -1,0 +1,1 @@
+import{_ as t,l as o,c as r,b as s}from"./index-BmBhVyyc.js";const n={},a={class:"p-6 bg-white rounded shadow-sm"};function c(d,e){return o(),r("div",a,[...e[0]||(e[0]=[s("h2",{class:"text-2xl font-bold mb-2"},"403",-1),s("p",{class:"text-gray-600"},"Forbidden",-1)])])}const _=t(n,[["render",c]]);export{_ as default};
